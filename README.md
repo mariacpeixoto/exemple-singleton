@@ -1,1 +1,1 @@
-# exemple-singleton
+# Exemple Singleton from Guru
